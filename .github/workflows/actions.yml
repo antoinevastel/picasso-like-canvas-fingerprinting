@@ -1,0 +1,12 @@
+name: picasso-canvas-fingerprinting
+on: [push]
+jobs:
+  check-picasso-consistency:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '17'
+      - run: npm install
+      - run: npm run test

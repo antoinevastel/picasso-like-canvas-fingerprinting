@@ -33,7 +33,6 @@ describe('Picasso canvas fingerprinting', function() {
 
         await browser.close();
         assert.equal(typeof res, 'string');
-        assert.equal(res.indexOf('data:image/png;base64'), 0);
-        assert.equal(res.length > 400, true);
+        assert.equal(res.length > 15, true);
     });
 });

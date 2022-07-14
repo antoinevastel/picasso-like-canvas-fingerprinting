@@ -10,6 +10,11 @@ An online demo is available on [my blog](https://antoinevastel.com/browser%20fin
 
 ## Quick start
 
+```html
+You can host your own version of the Picasso canvas fingerprinting script or include it using Jsdelivr CDN.
+<script src="https://cdn.jsdelivr.net/npm/picasso-canvas-fingerprinting/src/canvas.js"></script>
+```
+
 Once the Picasso script is loaded in your HTML page, you can use it as follows:
 ```html
 <script>

@@ -1,6 +1,6 @@
 {
   "name": "picasso-canvas-fingerprinting",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Implementation of a canvas fingerprinting algorithm inspired by the Picasso paper",
   "main": "src/canvas.js",
   "scripts": {

@@ -1,6 +1,7 @@
 # Picasso based canvas fingerprinting
 
 [![Actions Status](https://github.com/antoinevastel/picasso-like-canvas-fingerprinting//workflows/picasso-canvas-fingerprinting/badge.svg)](https://github.com/antoinevastel/picasso-like-canvas-fingerprinting/actions)
+[![NPM package](https://img.shields.io/npm/v/picasso-canvas-fingerprinting.svg)](https://www.npmjs.com/package/picasso-canvas-fingerprinting)
 
 
 Implementation of a canvas fingerprinting algorithm inspired by the [Picasso paper](https://ai.google/research/pubs/pub45581) written by Elie Bursztein.

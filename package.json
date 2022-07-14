@@ -4,7 +4,7 @@
   "description": "Implementation of a canvas fingerprinting algorithm inspired by the Picasso paper",
   "main": "src/canvas.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/mocha/bin/mocha.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/antoinevastel/picasso-like-canvas-fingerprinting/issues"
   },
-  "homepage": "https://github.com/antoinevastel/picasso-like-canvas-fingerprinting#readme"
+  "homepage": "https://github.com/antoinevastel/picasso-like-canvas-fingerprinting#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "puppeteer": "^15.4.0"
+  }
 }

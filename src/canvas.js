@@ -318,5 +318,3 @@ function picassoCanvas(roundNumber, seed, params) {
         return x64hash128(canvasElt.toDataURL(), seed);
     } catch (e) {}
 }
-
-exports.picassoCanvas = picassoCanvas;

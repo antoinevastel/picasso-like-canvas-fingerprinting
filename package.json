@@ -1,0 +1,19 @@
+{
+  "name": "picasso-canvas-fingerprinting",
+  "version": "1.0.0",
+  "description": "Implementation of a canvas fingerprinting algorithm inspired by the Picasso paper",
+  "main": "src/canvas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoinevastel/picasso-like-canvas-fingerprinting.git"
+  },
+  "author": "Antoine Vastel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antoinevastel/picasso-like-canvas-fingerprinting/issues"
+  },
+  "homepage": "https://github.com/antoinevastel/picasso-like-canvas-fingerprinting#readme"
+}

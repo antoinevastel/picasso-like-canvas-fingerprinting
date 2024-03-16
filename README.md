@@ -4,6 +4,12 @@
 [![NPM package](https://img.shields.io/npm/v/picasso-canvas-fingerprinting.svg)](https://www.npmjs.com/package/picasso-canvas-fingerprinting)
 
 
+## News:
+I recently created a [website where you can see your browser fingerprint](https://deviceandbrowserinfo.com/info_device) and different fingerprinting-related signals like your IP address, your canvas fingerprint, your HTTP headers, etc. Some information is accessible both through a webpage and through APIs. Don't hesitate to bookmark it as I will add more signals and more content related to bots.
+
+------------
+
+
 Implementation of a canvas fingerprinting algorithm inspired by the [Picasso paper](https://ai.google/research/pubs/pub45581) written by Elie Bursztein.
 
 An online demo is available on [my blog](https://antoinevastel.com/browser%20fingerprinting/2019/03/21/picasso-canvas-fingerprinting.html).
